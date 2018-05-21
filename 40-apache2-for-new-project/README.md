@@ -25,7 +25,7 @@ vim /etc/apache2/apache2.conf
 3. 增加监听端口
 
 ```
-echo "Listen 8080"   >> /etc/apach2/ports.conf
+echo "Listen 8080"   >> /etc/apache2/ports.conf
 ```
 
 4. 创建虚拟机配置文件
